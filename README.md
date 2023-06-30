@@ -16,6 +16,11 @@ I'm Nathan, a 21 years old brazilian young man.<br><br>Right now, I'm majoring i
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntn-ss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+![Snake animation](https://github.com/ntn-ss/ntn-ss/blob/output/github-contribution-grid-snake.svg)
+
+
+---
 [![](https://visitcount.itsvg.in/api?id=ntn-ss&icon=0&color=8)](https://visitcount.itsvg.in)
 </div>
 
