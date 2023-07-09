@@ -1,4 +1,4 @@
-# 💪 About Me:
+# 💫 About Me:
 I'm Nathan, a 21 years old brazilian young man.<br><br>Right now, I'm majoring in Digital Design on behalf of the Federal University of Ceara, but I have an IT Technician degree since 2019. I've decided to get into programming pretty recently to show myself I can increase my abilities through discipline and to show everyone who ever betted in my failure that they've been wrong. I'm currently learning React, Express.JS, PostgreSQL, Firebase, MongoDB, Java and Python. I plan to begin studying C++ on the next few months.<br><br>I like games, anime and music. You may talk to me about pretty much anything, and even if I know nothing about it, I'll listen with full attention.
 
 
