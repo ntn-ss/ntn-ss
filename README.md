@@ -3,7 +3,6 @@ I'm Nathan, a 22 years old brazilian young man.<br><br>Right now, I'm majoring i
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ntn_snt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072b1.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ntn-snt)
 
 # 💻 Tech Stack:
